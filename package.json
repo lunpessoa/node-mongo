@@ -8,9 +8,15 @@
     "dev": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "node",
+    "express",
+    "mongoose",
+    "alura",
+    "backend"
+  ],
+  "author": "Luan Pessoa Leonel Barbosa",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "2.0.15"
   },
